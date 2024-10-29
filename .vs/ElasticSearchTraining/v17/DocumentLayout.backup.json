@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ElasticSearchTraining\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|c:\\projects\\elasticsearchtraining\\elasticsearchtraining\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|solutionrelative:elasticsearchtraining\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|c:\\projects\\elasticsearchtraining\\elasticsearchtraining\\elasticconfiguration\\elasticclientconfigureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|solutionrelative:elasticsearchtraining\\elasticconfiguration\\elasticclientconfigureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|c:\\projects\\elasticsearchtraining\\elasticsearchtraining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|solutionrelative:elasticsearchtraining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|c:\\projects\\elasticsearchtraining\\elasticsearchtraining\\controllers\\elasticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|solutionrelative:elasticsearchtraining\\controllers\\elasticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|c:\\projects\\elasticsearchtraining\\elasticsearchtraining\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|solutionrelative:elasticsearchtraining\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|c:\\projects\\elasticsearchtraining\\elasticsearchtraining\\elasticservice\\ielasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|solutionrelative:elasticsearchtraining\\elasticservice\\ielasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|c:\\projects\\elasticsearchtraining\\elasticsearchtraining\\elasticservice\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|solutionrelative:elasticsearchtraining\\elasticservice\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|c:\\projects\\elasticsearchtraining\\elasticsearchtraining\\elasticconfiguration\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|solutionrelative:elasticsearchtraining\\elasticconfiguration\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|c:\\projects\\elasticsearchtraining\\elasticsearchtraining\\elasticconfiguration\\elasticsearchoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|solutionrelative:elasticsearchtraining\\elasticconfiguration\\elasticsearchoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|c:\\projects\\elasticsearchtraining\\elasticsearchtraining\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8FEB99C-3F93-46EF-B754-239DB1B180AB}|ElasticSearchTraining\\ElasticSearchTraining.csproj|solutionrelative:elasticsearchtraining\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m_cet\\AppData\\Local\\SourceServer\\773a74d1cbc20b2132a00a09a7e1673a467e6798679fc0002818100627cfb995\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m_cet\\AppData\\Local\\SourceServer\\e8cf7bede84da75be0246beef05f0ea371f8553f4fe002ca1f072eb55fd8aedd\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\ElasticConfiguration\\Product.cs",
+              "RelativeDocumentMoniker": "ElasticSearchTraining\\ElasticConfiguration\\Product.cs",
+              "ToolTip": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\ElasticConfiguration\\Product.cs",
+              "RelativeToolTip": "ElasticSearchTraining\\ElasticConfiguration\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:20:46.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ElasticSearchService.cs",
+              "DocumentMoniker": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\ElasticService\\ElasticSearchService.cs",
+              "RelativeDocumentMoniker": "ElasticSearchTraining\\ElasticService\\ElasticSearchService.cs",
+              "ToolTip": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\ElasticService\\ElasticSearchService.cs",
+              "RelativeToolTip": "ElasticSearchTraining\\ElasticService\\ElasticSearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-07T12:18:54.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ElasticSearchTraining\\appsettings.Development.json",
+              "ToolTip": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\appsettings.Development.json",
+              "RelativeToolTip": "ElasticSearchTraining\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T15:16:55.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\Program.cs",
+              "RelativeDocumentMoniker": "ElasticSearchTraining\\Program.cs",
+              "ToolTip": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\Program.cs",
+              "RelativeToolTip": "ElasticSearchTraining\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-07T12:32:27.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ElasticSearchTraining\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ElasticSearchTraining\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T20:24:05.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElasticController.cs",
+              "DocumentMoniker": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\Controllers\\ElasticController.cs",
+              "RelativeDocumentMoniker": "ElasticSearchTraining\\Controllers\\ElasticController.cs",
+              "ToolTip": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\Controllers\\ElasticController.cs",
+              "RelativeToolTip": "ElasticSearchTraining\\Controllers\\ElasticController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-07T12:11:31.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElasticClientConfigureService.cs",
+              "DocumentMoniker": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\ElasticConfiguration\\ElasticClientConfigureService.cs",
+              "RelativeDocumentMoniker": "ElasticSearchTraining\\ElasticConfiguration\\ElasticClientConfigureService.cs",
+              "ToolTip": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\ElasticConfiguration\\ElasticClientConfigureService.cs",
+              "RelativeToolTip": "ElasticSearchTraining\\ElasticConfiguration\\ElasticClientConfigureService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:47:33.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IElasticSearchService.cs",
+              "DocumentMoniker": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\ElasticService\\IElasticSearchService.cs",
+              "RelativeDocumentMoniker": "ElasticSearchTraining\\ElasticService\\IElasticSearchService.cs",
+              "ToolTip": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\ElasticService\\IElasticSearchService.cs",
+              "RelativeToolTip": "ElasticSearchTraining\\ElasticService\\IElasticSearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-07T12:42:15.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ElasticSearchOptions.cs",
+              "DocumentMoniker": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\ElasticConfiguration\\ElasticSearchOptions.cs",
+              "RelativeDocumentMoniker": "ElasticSearchTraining\\ElasticConfiguration\\ElasticSearchOptions.cs",
+              "ToolTip": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\ElasticConfiguration\\ElasticSearchOptions.cs",
+              "RelativeToolTip": "ElasticSearchTraining\\ElasticConfiguration\\ElasticSearchOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:36:01.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\appsettings.json",
+              "RelativeDocumentMoniker": "ElasticSearchTraining\\appsettings.json",
+              "ToolTip": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\appsettings.json",
+              "RelativeToolTip": "ElasticSearchTraining\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T20:17:04.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AsyncTaskMethodBuilderT.cs",
+              "DocumentMoniker": "C:\\Users\\m_cet\\AppData\\Local\\SourceServer\\e8cf7bede84da75be0246beef05f0ea371f8553f4fe002ca1f072eb55fd8aedd\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\m_cet\\AppData\\Local\\SourceServer\\e8cf7bede84da75be0246beef05f0ea371f8553f4fe002ca1f072eb55fd8aedd\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
+              "ToolTip": "C:\\Users\\m_cet\\AppData\\Local\\SourceServer\\e8cf7bede84da75be0246beef05f0ea371f8553f4fe002ca1f072eb55fd8aedd\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
+              "RelativeToolTip": "..\\..\\Users\\m_cet\\AppData\\Local\\SourceServer\\e8cf7bede84da75be0246beef05f0ea371f8553f4fe002ca1f072eb55fd8aedd\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAwwB8BAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:11:04.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Monitor.CoreCLR.cs",
+              "DocumentMoniker": "C:\\Users\\m_cet\\AppData\\Local\\SourceServer\\773a74d1cbc20b2132a00a09a7e1673a467e6798679fc0002818100627cfb995\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\m_cet\\AppData\\Local\\SourceServer\\773a74d1cbc20b2132a00a09a7e1673a467e6798679fc0002818100627cfb995\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ToolTip": "C:\\Users\\m_cet\\AppData\\Local\\SourceServer\\773a74d1cbc20b2132a00a09a7e1673a467e6798679fc0002818100627cfb995\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "RelativeToolTip": "..\\..\\Users\\m_cet\\AppData\\Local\\SourceServer\\773a74d1cbc20b2132a00a09a7e1673a467e6798679fc0002818100627cfb995\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAwwJsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:17:12.849Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

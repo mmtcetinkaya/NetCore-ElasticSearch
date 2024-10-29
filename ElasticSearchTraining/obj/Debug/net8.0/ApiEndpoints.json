@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ElasticSearchTraining.Controllers.ElasticController",
+    "Method": "PostDocument",
+    "RelativePath": "Elastic/post",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
