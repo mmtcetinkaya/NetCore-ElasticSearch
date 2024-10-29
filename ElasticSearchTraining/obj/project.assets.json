@@ -251,11 +251,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\ElasticSearchTraining.csproj",
+      "projectUniqueName": "C:\\Projects\\GitHub Projects\\NetCore-ElasticSearch\\ElasticSearchTraining\\ElasticSearchTraining.csproj",
       "projectName": "ElasticSearchTraining",
-      "projectPath": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\ElasticSearchTraining.csproj",
+      "projectPath": "C:\\Projects\\GitHub Projects\\NetCore-ElasticSearch\\ElasticSearchTraining\\ElasticSearchTraining.csproj",
       "packagesPath": "C:\\Users\\m_cet\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\obj\\",
+      "outputPath": "C:\\Projects\\GitHub Projects\\NetCore-ElasticSearch\\ElasticSearchTraining\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\m_cet\\AppData\\Roaming\\NuGet\\NuGet.Config",

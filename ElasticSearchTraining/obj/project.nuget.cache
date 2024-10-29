@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fQFoLG3yeU4=",
+  "dgSpecHash": "8VD0gBWdri8=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\ElasticSearchTraining\\ElasticSearchTraining\\ElasticSearchTraining.csproj",
+  "projectFilePath": "C:\\Projects\\GitHub Projects\\NetCore-ElasticSearch\\ElasticSearchTraining\\ElasticSearchTraining.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\m_cet\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
     "C:\\Users\\m_cet\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
